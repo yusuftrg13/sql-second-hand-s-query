@@ -1,0 +1,1 @@
+# sql-second-hand-s-query
